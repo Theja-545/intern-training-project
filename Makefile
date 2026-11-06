@@ -13,7 +13,7 @@ MOTD    := ./scripts/motd
 .DEFAULT_GOAL := help
 
 help:
-	@cat $(MOTD)
+	@cat $(MOTD) 
 	@echo "========================================================================"
 	@echo "make install        --> Install dependencies"
 	@echo "make setup          --> Set up environment"
