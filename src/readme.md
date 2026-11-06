@@ -4,4 +4,4 @@ the repository used to learn and develop and web platform
 HTML
 CSS
 JS
-Typescript
+Typescript 
