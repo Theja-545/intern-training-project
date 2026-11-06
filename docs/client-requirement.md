@@ -46,6 +46,7 @@ High:   Authentication
         search
         content management
         Playback video
+        acceptance
 Medium: Comment
         likes
         subscription
@@ -57,7 +58,7 @@ low:    personalised recommendation
 ## Review requirements with stakeholders
 Present the proposed features to stakeholders.
 Confirm the functionalities and objectives.
-Collect feedback
+Collect feedback and perfomance expectation and acceptance
 ## Refine and clarify based on feedback
 Adjust video upload size.
 Finalise video streaming quality.
