@@ -1,4 +1,4 @@
-#-intern-training-project
+# intern-training-project
 Lean web development 
 Stack:
 Architecture:
