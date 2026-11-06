@@ -39,15 +39,17 @@ Allow to maintain user watch history.
 Allow to maintain and edit playlist.
 Allow admin to manage content.
 Send notifications to users.
+Allow users to playback video
 ## Prioritise requirements
 High:   Authentication
         video uploading
         search
         content management
+        Playback video
 Medium: Comment
         likes
         subscription
-        playlisr
+        playlist
         watch history
 low:    personalised recommendation
         notification
@@ -57,7 +59,8 @@ Present the proposed features to stakeholders.
 Confirm the functionalities and objectives.
 Collect feedback
 ## Refine and clarify based on feedback
-
+Adjust video upload size.
+Finalise video streaming quality.
 ## Document assumptions and constrains
 Users must have internet connection.
 uploading videos must comply with platform policies.
@@ -68,4 +71,5 @@ Activity diagram for video uploading
 UI wireframes
 
 ## Establish a process for managing requirenent changes
-
+Update requirements document and maintain.
+Evaluate the impact on scope, cost development time.
