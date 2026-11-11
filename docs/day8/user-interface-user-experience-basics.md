@@ -4,19 +4,27 @@ UI (User interface): the point of interaction, communication, and control betwee
 
 ## 1. UX Laws
 UX laws are principles based on human behaviour that help designers create user-friendly websites and applications.
+## UX Laws
+
+UX laws are principles based on human behaviour and psychology that help designers create user-friendly interfaces.
 
 | UX Law | Description | Example / Usage |
 |---|---|---|
-| Hick's Law | More choices increase decision time. | Limit navigation menu options. |
-| Fitts's Law | Larger buttons are easier to click. | Make the Add to Cart button visible. |
-| Jakob's Law | Users prefer familiar designs. | Place the shopping cart at the top-right. |
-| Miller's Law | Group information into smaller sections. | Divide registration forms into sections. |
-| Law of Proximity | Nearby elements appear related. | Place product names near product images. |
-| Law of Similarity | Similar elements are understood as a group. | Use consistent button styles. |
-| Aesthetic-Usability Effect | Attractive designs feel easier to use. | Use consistent colours and layouts. |
-| Von Restorff Effect | Different elements attract attention. | Highlight the main CTA button. |
-| Goal-Gradient Effect | Users are motivated by progress. | Show checkout progress indicators. |
-| Peak-End Rule | Users remember important moments and endings. | Display a clear order confirmation. |
+| Fitts's Law | Target selection depends on the target's size and distance. | Make important buttons larger and easier to reach. |
+| Hick's Law | Decision time increases with the number and complexity of choices. | Reduce unnecessary menu options. |
+| Jakob's Law | Users prefer familiar website patterns and interactions. | Place the shopping cart in a familiar location. |
+| Law of Common Region | Elements within the same boundary are perceived as related. | Group related information inside a card. |
+| Law of Proximity | Nearby elements are perceived as belonging together. | Place product names and prices near product images. |
+| Law of Prägnanz | People tend to interpret complex visuals in the simplest possible way. | Use simple icons and layouts. |
+| Law of Similarity | Similar-looking elements are perceived as belonging together. | Use consistent styles for buttons and links. |
+| Law of Uniform Connectedness | Visually connected elements are perceived as related. | Connect form labels and input fields visually. |
+| Miller's Law | Working memory has limited capacity for information. | Break long information into smaller groups. |
+| Paradox of the Active User | Users often start using software without reading instructions. | Make navigation and actions self-explanatory. |
+| Pareto Principle | A large proportion of results often comes from a small proportion of causes. | Focus on the most frequently used website features. |
+| Parkinson's Law | Tasks tend to expand to fill the available time. | Use clear time limits for task-based workflows. |
+| Peak-End Rule | Users remember experiences mainly through their strongest moment and ending. | Show a clear order confirmation after checkout. |
+| Postel's Law | Be flexible when accepting input and consistent when providing output. | Accept different phone number formats and display them consistently. |
+| Tesler's Law | Every system has some complexity that cannot be eliminated. | Simplify a complicated checkout process for users. |
 
 ## 2. Low-Fidelity vs High-Fidelity Wireframes
 
