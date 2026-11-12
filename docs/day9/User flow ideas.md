@@ -1,22 +1,13 @@
-## ideas for a website
-# e-thaksalawa
-- webiste that has the whole school syllubus online. 
-- text books for all grades
-- select from grade 1 to 13
-- teachers guide for all subjects
-- past papers
-- model papers
-- quiz
+# ideas for a website
 
-# book my show
-- online movie ticket booking platform
-- select movies 
-- select date
-- select theatre
-- select seats
-- pay online
-- recieve tickets
-# My idea - Movie ticket booking for PCA cinema batticaloa
+#  Movie ticket booking for PCA cinema batticaloa
+PCA cinemax is a movie theatre in Batticaloa, currently they have no online ticket booking platforms. 
+They have 
+- 1 screen
+- present 2D movies
+- 2 types of seating : ODC , VIP
+- 3 show times
+## The userflow would be 
 - login
 - use without login
 - theatre already selected
