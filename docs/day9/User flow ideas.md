@@ -28,3 +28,4 @@
 - book the ticket
 - pay online
 - recieve online ticket
+- logout 
